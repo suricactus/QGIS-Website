@@ -86,8 +86,8 @@ Beginning after 2.12 the development phase is always 12 weeks and the freeze
 phase is at least 5 weeks.  Remainders are used to extend the freeze phase of
 LTR releases.
 
-Point releases will happen every month on the latest release branch branch, if
-there are backports.   Beginning with the 3.28 release point releases are only
+Point releases will happen every month on the latest release branch, if
+there are backports. Beginning with the QGIS 3.28 version, point releases are only
 done with new latest releases.
 
 In the first four months after its release, a new LTR is also the current LR.
